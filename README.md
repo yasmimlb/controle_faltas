@@ -11,3 +11,6 @@ Este projeto foi desenvolvido para a matéria de **Auditoria e Qualidade de Soft
 1. Clone o repositório:
    ```bash
    git clone https://github.com/yasmimlb/controle_faltas.git
+2. Entre na pasta e execute
+    ```bash
+   python main.py
